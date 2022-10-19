@@ -1,5 +1,7 @@
 Samples from Snyk Code Checker tested with Betterscan
 
+Shows findings on the left with Snyk Code and on the right with Betterscan for the same code. 
+
 |Python||
 |---|---|	
 |Snyk|Betterscan|
