@@ -1,4 +1,5 @@
-Samples from Snyk Code Checker tested with Betterscan
+Samples from [Snyk Code Checker](https://snyk.io)  tested with [Betterscan.io](https://betterscan.io)
+
 
 Shows findings on the left with Snyk Code and on the right with Betterscan for the same code. 
 
@@ -51,3 +52,4 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 |---|---|	
 |Snyk|	Betterscan|
 |Open Redirect||	
+
