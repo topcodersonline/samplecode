@@ -6,9 +6,10 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 |Python||
 |---|---|	
 |Snyk|Betterscan|
-|Code Injection|	
+|Code Injection||	
 |SQL Injection|SQL Injection|
-|Open Redirect|	
+|Open Redirect||
+||Bind on all interfaces|
 
 |Javascript||
 |---|---|
@@ -23,7 +24,7 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 |Snyk|	Betterscan|
 |Cross-site Scripting (XSS)|	Cross-site Scripting (XSS)|
 |SQL Injection|	SQL Injection|
-|Open Redirect	||
+|Open Redirect	|Open Redirect	|
 |Use of Hardcoded Credentials	||
 
 |Java||
@@ -39,7 +40,8 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 |Snyk|	Betterscan|
 |Cross-site Scripting (XSS)|	Timeouts warning|
 |Open Redirect||
-|Clear Text Logging||	
+|Clear Text Logging||
+||Errors not checked|
 
 |C#|	|
 |---|---|
@@ -53,3 +55,14 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 |Snyk|	Betterscan|
 |Open Redirect||	
 
+
+Command Line (CLI) report
+
+![image](https://user-images.githubusercontent.com/43061739/197459556-8d37d81d-3f0f-4ff9-95a0-a0180c6c6d83.png)
+
+
+
+
+Web Interface
+
+![image](https://user-images.githubusercontent.com/43061739/197459116-89d122cf-9bf2-416b-94cd-ee9e81fe03fd.png)
