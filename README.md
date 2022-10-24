@@ -1,6 +1,19 @@
 Samples from [Snyk Code Checker](https://snyk.io)  tested with [Betterscan.io](https://betterscan.io)
 
 
+Betterscan engines used:
+
+|Language|Engine|
+|---|---|	
+|Python|Bandit|
+|Javascript|semgrep (nodejsscan)|
+|PHP|progpilot|
+|Java|PMD, semgrep|
+|GO|Gosec|
+|c#|insidersec|
+|Ruby|Brakeman|
+
+
 Shows findings on the left with Snyk Code and on the right with Betterscan for the same code. 
 
 |Python||
