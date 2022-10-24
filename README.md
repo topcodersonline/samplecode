@@ -14,6 +14,27 @@ Betterscan engines used:
 |Ruby|Brakeman|
 
 
+# Summary
+
+Betterscan.io is a Security Automation Software, so any check/software can be added to it (also better than the current ones)
+
+40% of all checks missed by Betterscan.
+
+Please keep in mind actuall missing check in real life could be much lower. Those samples were targeted for Snyk Code Checker.
+
+|Amount|Language|
+|---|---|	
+|0|for Python|
+|1| for Javascript|
+|1| for PHP|
+|3| for Java|
+|3| for GO|
+|3| for C#|
+|1| for Ruby|
+
+
+
+
 Shows findings on the left with Snyk Code and on the right with Betterscan for the same code. 
 
 |Python||
