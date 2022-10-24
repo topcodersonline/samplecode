@@ -19,7 +19,7 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 |Python||
 |---|---|	
 |Snyk|Betterscan|
-|Code Injection||	
+|Code Injection|Code Injection|	
 |SQL Injection|SQL Injection|
 |Open Redirect||
 ||Bind on all interfaces|
@@ -71,7 +71,7 @@ Shows findings on the left with Snyk Code and on the right with Betterscan for t
 
 Command Line (CLI) report
 
-![image](https://user-images.githubusercontent.com/43061739/197459556-8d37d81d-3f0f-4ff9-95a0-a0180c6c6d83.png)
+![image](https://user-images.githubusercontent.com/43061739/197542995-51016ace-80d8-4301-902a-b54ade6e00f4.png)
 
 
 
