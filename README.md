@@ -19,7 +19,7 @@ Betterscan.io is a Security Automation Software, so any check/software can be ad
 
 40% of all vulnerabilities were missed by Betterscan.
 
-Betterscan does however so much more, like binary scannig using YARA, SBOM, dependencies vulnerabilities etc, adding your own checkers etc.
+Betterscan does however so much more, like binary scannig using YARA, SBOM, dependencies vulnerabilities (like Dependabot) etc, adding your own checkers etc.
 
 Please keep in mind actual missing vulnerabilities in real life could be much lower. Those samples were targeted for Snyk Code Checker. Feel free to try with "Goat" projects.
 
