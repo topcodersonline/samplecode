@@ -1,6 +1,5 @@
 Samples from [Snyk Code Checker](https://snyk.io)  tested with [Betterscan.io](https://betterscan.io)
 
-
 Betterscan engines used:
 
 |Language|Engine|
@@ -19,6 +18,8 @@ Betterscan engines used:
 Betterscan.io is a Security Automation Software, so any check/software can be added to it (also better than the current ones)
 
 40% of all vulnerabilities were missed by Betterscan.
+
+Betterscan does however so much more, like binary scannig using YARA etc, adding your own checkers etc.
 
 Please keep in mind actual missing vulnerabilities in real life could be much lower. Those samples were targeted for Snyk Code Checker. Feel free to try with "Goat" projects.
 
