@@ -34,7 +34,6 @@ Please keep in mind actual missing vulnerabilities in real life could be much lo
 |1| for Ruby|
 
 
-
 Shows findings on the left with Snyk Code and on the right with Betterscan for the same code. 
 
 |Python||
