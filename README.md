@@ -12,7 +12,6 @@ Betterscan engines used:
 |c#|insidersec|
 |Ruby|Brakeman|
 
-
 # Summary
 
 Betterscan.io is a Security Automation Software, so any check/software can be added to it (also better than the current ones)
