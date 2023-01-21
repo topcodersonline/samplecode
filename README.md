@@ -1,4 +1,3 @@
-
 Samples from [Snyk Code Checker](https://snyk.io)  tested with [Betterscan.io](https://betterscan.io)
 
 Betterscan engines used:
